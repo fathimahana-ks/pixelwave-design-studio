@@ -68,7 +68,7 @@ HTML & CSS | Responsive Design | Personal Projects
 
 ## Preview
 
-<img src="./assets/images/beautiful.jpg" alt="PixelWave homepage preview" width="400"/>
+<img src="./assets/images/Live Preview.png" alt="PixelWave homepage preview" width="400"/>
 
 ---
 
