@@ -1,6 +1,6 @@
 # PixelWave – Web Design Agency Project
 
-HTML & CSS | Responsive Design | Personal Projects
+HTML & CSS | Responsive Design | Web Development
 
 ---
 
