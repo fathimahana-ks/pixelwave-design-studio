@@ -61,7 +61,7 @@ HTML & CSS | Responsive Design | Personal Projects
 
 ## Live Website
 
-[https://fathimahana-ks.github.io/pixelwave-agency-site/](https://fathimahana-ks.github.io/pixelwave-agency-site/)  
+[https://fathimahana-ks.github.io/pixelwave-design-studio/](https://fathimahana-ks.github.io/pixelwave-design-studio/)  
 
 
 ---
